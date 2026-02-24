@@ -1,7 +1,23 @@
 html, body {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #8498E2;
 }
 canvas {
-  display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body p {
+    display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+body a img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
 }
